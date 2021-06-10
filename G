@@ -325,7 +325,7 @@ def ex_id():
     	time.sleep(1)
     	login_choice()
     os.system("clear")
-    logo()
+    
     print 47 * "\033[1;97m═"
     print("\t  \033[1;32mCOLLECT PUBLIC ID FRIENDLIST\033[0;97m")
     print 47 * "\033[1;97m═"
